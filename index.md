@@ -14,3 +14,15 @@ En este tampoco se dice nada en tres subcapitulos
 ![imagen 2](https://images.freeimages.com/images/large-previews/3cb/the-treasure-1203251.jpg?fmt=webp&w=500)
 ### Subcapitulo3
 ![imagen 3](https://images.freeimages.com/images/large-previews/83f/paris-1213603.jpg?fmt=webp&w=500)
+
+## Codigo
+
+``` c
+int main ()
+{
+    int a;
+    a = a+1;
+}
+```
+
+

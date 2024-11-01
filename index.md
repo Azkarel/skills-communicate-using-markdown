@@ -25,4 +25,9 @@ int main ()
 }
 ```
 
+## Lista de tareas
 
+- [X] Crear titulos
+- [X] Crear imagenes
+- [X] Crear codigo
+- [ ] Crear lista de tareas
